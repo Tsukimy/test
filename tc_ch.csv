@@ -1,0 +1,491 @@
+Mall,Hour,Percentage of attendance,Weekday,Weather temperature,Weather overcast
+Aviapark,10,21,Monday,1.5,3
+Aviapark,11,32,Monday,1.5,3
+Aviapark,12,41,Monday,1.5,3
+Aviapark,13,47,Monday,1.5,3
+Aviapark,14,49,Monday,1.5,3
+Aviapark,15,50,Monday,1.5,3
+Aviapark,16,52,Monday,1.5,3
+Aviapark,17,54,Monday,1.5,3
+Aviapark,18,57,Monday,1.5,3
+Aviapark,19,57,Monday,1.5,3
+Aviapark,20,49,Monday,1.5,3
+Aviapark,21,32,Monday,1.5,3
+Aviapark,22,0,Monday,1.5,3
+Aviapark,23,0,Monday,1.5,3
+Aviapark,10,22,Tuesday,3,3
+Aviapark,11,33,Tuesday,3,3
+Aviapark,12,42,Tuesday,3,3
+Aviapark,13,47,Tuesday,3,3
+Aviapark,14,49,Tuesday,3,3
+Aviapark,15,50,Tuesday,3,3
+Aviapark,16,52,Tuesday,3,3
+Aviapark,17,54,Tuesday,3,3
+Aviapark,18,59,Tuesday,3,3
+Aviapark,19,59,Tuesday,3,3
+Aviapark,20,51,Tuesday,3,3
+Aviapark,21,33,Tuesday,3,3
+Aviapark,22,0,Tuesday,3,3
+Aviapark,23,0,Tuesday,3,3
+Aviapark,10,23,Wednesday,2,3
+Aviapark,11,36,Wednesday,2,3
+Aviapark,12,45,Wednesday,2,3
+Aviapark,13,50,Wednesday,2,3
+Aviapark,14,52,Wednesday,2,3
+Aviapark,15,53,Wednesday,2,3
+Aviapark,16,55,Wednesday,2,3
+Aviapark,17,57,Wednesday,2,3
+Aviapark,18,61,Wednesday,2,3
+Aviapark,19,62,Wednesday,2,3
+Aviapark,20,53,Wednesday,2,3
+Aviapark,21,35,Wednesday,2,3
+Aviapark,22,0,Wednesday,2,3
+Aviapark,23,0,Wednesday,2,3
+Aviapark,10,23,Thursday,5,3
+Aviapark,11,36,Thursday,5,3
+Aviapark,12,46,Thursday,5,3
+Aviapark,13,51,Thursday,5,3
+Aviapark,14,52,Thursday,5,3
+Aviapark,15,54,Thursday,5,3
+Aviapark,16,56,Thursday,5,3
+Aviapark,17,59,Thursday,5,3
+Aviapark,18,63,Thursday,5,3
+Aviapark,19,64,Thursday,5,3
+Aviapark,20,56,Thursday,5,3
+Aviapark,21,36,Thursday,5,3
+Aviapark,22,0,Thursday,5,3
+Aviapark,23,0,Thursday,5,3
+Aviapark,10,24,Friday,3,3
+Aviapark,11,37,Friday,3,3
+Aviapark,12,47,Friday,3,3
+Aviapark,13,53,Friday,3,3
+Aviapark,14,55,Friday,3,3
+Aviapark,15,58,Friday,3,3
+Aviapark,16,62,Friday,3,3
+Aviapark,17,68,Friday,3,3
+Aviapark,18,74,Friday,3,3
+Aviapark,19,73,Friday,3,3
+Aviapark,20,63,Friday,3,3
+Aviapark,21,49,Friday,3,3
+Aviapark,22,30,Friday,3,3
+Aviapark,23,0,Friday,3,3
+Aviapark,10,31,Saturday,1,1
+Aviapark,11,50,Saturday,1,1
+Aviapark,12,64,Saturday,1,1
+Aviapark,13,77,Saturday,1,1
+Aviapark,14,87,Saturday,1,1
+Aviapark,15,94,Saturday,1,1
+Aviapark,16,98,Saturday,1,1
+Aviapark,17,100,Saturday,1,1
+Aviapark,18,96,Saturday,1,1
+Aviapark,19,86,Saturday,1,1
+Aviapark,20,71,Saturday,1,1
+Aviapark,21,53,Saturday,1,1
+Aviapark,22,31,Saturday,1,1
+Aviapark,23,0,Saturday,1,1
+Aviapark,10,29,Sunday,2,3
+Aviapark,11,48,Sunday,2,3
+Aviapark,12,64,Sunday,2,3
+Aviapark,13,77,Sunday,2,3
+Aviapark,14,86,Sunday,2,3
+Aviapark,15,92,Sunday,2,3
+Aviapark,16,94,Sunday,2,3
+Aviapark,17,92,Sunday,2,3
+Aviapark,18,87,Sunday,2,3
+Aviapark,19,75,Sunday,2,3
+Aviapark,20,58,Sunday,2,3
+Aviapark,21,37,Sunday,2,3
+Aviapark,22,0,Sunday,2,3
+Aviapark,23,0,Sunday,2,3
+Kashirskaya plaza,10,31,Monday,1.5,3
+Kashirskaya plaza,11,43,Monday,1.5,3
+Kashirskaya plaza,12,49,Monday,1.5,3
+Kashirskaya plaza,13,54,Monday,1.5,3
+Kashirskaya plaza,14,58,Monday,1.5,3
+Kashirskaya plaza,15,60,Monday,1.5,3
+Kashirskaya plaza,16,63,Monday,1.5,3
+Kashirskaya plaza,17,66,Monday,1.5,3
+Kashirskaya plaza,18,69,Monday,1.5,3
+Kashirskaya plaza,19,67,Monday,1.5,3
+Kashirskaya plaza,20,58,Monday,1.5,3
+Kashirskaya plaza,21,38,Monday,1.5,3
+Kashirskaya plaza,22,0,Monday,1.5,3
+Kashirskaya plaza,23,0,Monday,1.5,3
+Kashirskaya plaza,10,31,Tuesday,3,3
+Kashirskaya plaza,11,42,Tuesday,3,3
+Kashirskaya plaza,12,47,Tuesday,3,3
+Kashirskaya plaza,13,52,Tuesday,3,3
+Kashirskaya plaza,14,56,Tuesday,3,3
+Kashirskaya plaza,15,58,Tuesday,3,3
+Kashirskaya plaza,16,61,Tuesday,3,3
+Kashirskaya plaza,17,63,Tuesday,3,3
+Kashirskaya plaza,18,67,Tuesday,3,3
+Kashirskaya plaza,19,67,Tuesday,3,3
+Kashirskaya plaza,20,59,Tuesday,3,3
+Kashirskaya plaza,21,39,Tuesday,3,3
+Kashirskaya plaza,22,0,Tuesday,3,3
+Kashirskaya plaza,23,0,Tuesday,3,3
+Kashirskaya plaza,10,32,Wednesday,2,3
+Kashirskaya plaza,11,44,Wednesday,2,3
+Kashirskaya plaza,12,50,Wednesday,2,3
+Kashirskaya plaza,13,55,Wednesday,2,3
+Kashirskaya plaza,14,59,Wednesday,2,3
+Kashirskaya plaza,15,60,Wednesday,2,3
+Kashirskaya plaza,16,63,Wednesday,2,3
+Kashirskaya plaza,17,66,Wednesday,2,3
+Kashirskaya plaza,18,70,Wednesday,2,3
+Kashirskaya plaza,19,69,Wednesday,2,3
+Kashirskaya plaza,20,59,Wednesday,2,3
+Kashirskaya plaza,21,40,Wednesday,2,3
+Kashirskaya plaza,22,0,Wednesday,2,3
+Kashirskaya plaza,23,0,Wednesday,2,3
+Kashirskaya plaza,10,33,Thursday,5,3
+Kashirskaya plaza,11,46,Thursday,5,3
+Kashirskaya plaza,12,51,Thursday,5,3
+Kashirskaya plaza,13,55,Thursday,5,3
+Kashirskaya plaza,14,59,Thursday,5,3
+Kashirskaya plaza,15,61,Thursday,5,3
+Kashirskaya plaza,16,64,Thursday,5,3
+Kashirskaya plaza,17,67,Thursday,5,3
+Kashirskaya plaza,18,71,Thursday,5,3
+Kashirskaya plaza,19,71,Thursday,5,3
+Kashirskaya plaza,20,64,Thursday,5,3
+Kashirskaya plaza,21,43,Thursday,5,3
+Kashirskaya plaza,22,0,Thursday,5,3
+Kashirskaya plaza,23,0,Thursday,5,3
+Kashirskaya plaza,10,33,Friday,3,3
+Kashirskaya plaza,11,47,Friday,3,3
+Kashirskaya plaza,12,53,Friday,3,3
+Kashirskaya plaza,13,59,Friday,3,3
+Kashirskaya plaza,14,63,Friday,3,3
+Kashirskaya plaza,15,67,Friday,3,3
+Kashirskaya plaza,16,71,Friday,3,3
+Kashirskaya plaza,17,76,Friday,3,3
+Kashirskaya plaza,18,82,Friday,3,3
+Kashirskaya plaza,19,81,Friday,3,3
+Kashirskaya plaza,20,72,Friday,3,3
+Kashirskaya plaza,21,50,Friday,3,3
+Kashirskaya plaza,22,0,Friday,3,3
+Kashirskaya plaza,23,0,Friday,3,3
+Kashirskaya plaza,10,40,Saturday,1,1
+Kashirskaya plaza,11,62,Saturday,1,1
+Kashirskaya plaza,12,75,Saturday,1,1
+Kashirskaya plaza,13,86,Saturday,1,1
+Kashirskaya plaza,14,93,Saturday,1,1
+Kashirskaya plaza,15,97,Saturday,1,1
+Kashirskaya plaza,16,99,Saturday,1,1
+Kashirskaya plaza,17,100,Saturday,1,1
+Kashirskaya plaza,18,98,Saturday,1,1
+Kashirskaya plaza,19,89,Saturday,1,1
+Kashirskaya plaza,20,74,Saturday,1,1
+Kashirskaya plaza,21,49,Saturday,1,1
+Kashirskaya plaza,22,0,Saturday,1,1
+Kashirskaya plaza,23,0,Saturday,1,1
+Kashirskaya plaza,10,34,Sunday,2,3
+Kashirskaya plaza,11,54,Sunday,2,3
+Kashirskaya plaza,12,69,Sunday,2,3
+Kashirskaya plaza,13,80,Sunday,2,3
+Kashirskaya plaza,14,89,Sunday,2,3
+Kashirskaya plaza,15,93,Sunday,2,3
+Kashirskaya plaza,16,93,Sunday,2,3
+Kashirskaya plaza,17,92,Sunday,2,3
+Kashirskaya plaza,18,89,Sunday,2,3
+Kashirskaya plaza,19,78,Sunday,2,3
+Kashirskaya plaza,20,63,Sunday,2,3
+Kashirskaya plaza,21,41,Sunday,2,3
+Kashirskaya plaza,22,0,Sunday,2,3
+Kashirskaya plaza,23,0,Sunday,2,3
+Mega Khimki,10,26,Monday,1.5,3
+Mega Khimki,11,38,Monday,1.5,3
+Mega Khimki,12,46,Monday,1.5,3
+Mega Khimki,13,51,Monday,1.5,3
+Mega Khimki,14,53,Monday,1.5,3
+Mega Khimki,15,54,Monday,1.5,3
+Mega Khimki,16,55,Monday,1.5,3
+Mega Khimki,17,56,Monday,1.5,3
+Mega Khimki,18,58,Monday,1.5,3
+Mega Khimki,19,56,Monday,1.5,3
+Mega Khimki,20,50,Monday,1.5,3
+Mega Khimki,21,45,Monday,1.5,3
+Mega Khimki,22,35,Monday,1.5,3
+Mega Khimki,23,0,Monday,1.5,3
+Mega Khimki,10,27,Tuesday,3,3
+Mega Khimki,11,40,Tuesday,3,3
+Mega Khimki,12,46,Tuesday,3,3
+Mega Khimki,13,50,Tuesday,3,3
+Mega Khimki,14,51,Tuesday,3,3
+Mega Khimki,15,53,Tuesday,3,3
+Mega Khimki,16,54,Tuesday,3,3
+Mega Khimki,17,56,Tuesday,3,3
+Mega Khimki,18,60,Tuesday,3,3
+Mega Khimki,19,59,Tuesday,3,3
+Mega Khimki,20,53,Tuesday,3,3
+Mega Khimki,21,42,Tuesday,3,3
+Mega Khimki,22,26,Tuesday,3,3
+Mega Khimki,23,0,Tuesday,3,3
+Mega Khimki,10,29,Wednesday,2,3
+Mega Khimki,11,42,Wednesday,2,3
+Mega Khimki,12,49,Wednesday,2,3
+Mega Khimki,13,54,Wednesday,2,3
+Mega Khimki,14,55,Wednesday,2,3
+Mega Khimki,15,56,Wednesday,2,3
+Mega Khimki,16,57,Wednesday,2,3
+Mega Khimki,17,58,Wednesday,2,3
+Mega Khimki,18,61,Wednesday,2,3
+Mega Khimki,19,61,Wednesday,2,3
+Mega Khimki,20,54,Wednesday,2,3
+Mega Khimki,21,43,Wednesday,2,3
+Mega Khimki,22,26,Wednesday,2,3
+Mega Khimki,23,0,Wednesday,2,3
+Mega Khimki,10,29,Thursday,5,3
+Mega Khimki,11,42,Thursday,5,3
+Mega Khimki,12,50,Thursday,5,3
+Mega Khimki,13,54,Thursday,5,3
+Mega Khimki,14,56,Thursday,5,3
+Mega Khimki,15,57,Thursday,5,3
+Mega Khimki,16,57,Thursday,5,3
+Mega Khimki,17,59,Thursday,5,3
+Mega Khimki,18,62,Thursday,5,3
+Mega Khimki,19,62,Thursday,5,3
+Mega Khimki,20,56,Thursday,5,3
+Mega Khimki,21,45,Thursday,5,3
+Mega Khimki,22,28,Thursday,5,3
+Mega Khimki,23,0,Thursday,5,3
+Mega Khimki,10,29,Friday,3,3
+Mega Khimki,11,43,Friday,3,3
+Mega Khimki,12,51,Friday,3,3
+Mega Khimki,13,57,Friday,3,3
+Mega Khimki,14,59,Friday,3,3
+Mega Khimki,15,61,Friday,3,3
+Mega Khimki,16,64,Friday,3,3
+Mega Khimki,17,68,Friday,3,3
+Mega Khimki,18,72,Friday,3,3
+Mega Khimki,19,70,Friday,3,3
+Mega Khimki,20,64,Friday,3,3
+Mega Khimki,21,53,Friday,3,3
+Mega Khimki,22,39,Friday,3,3
+Mega Khimki,23,22,Friday,3,3
+Mega Khimki,10,42,Saturday,1,1
+Mega Khimki,11,65,Saturday,1,1
+Mega Khimki,12,79,Saturday,1,1
+Mega Khimki,13,88,Saturday,1,1
+Mega Khimki,14,94,Saturday,1,1
+Mega Khimki,15,98,Saturday,1,1
+Mega Khimki,16,99,Saturday,1,1
+Mega Khimki,17,100,Saturday,1,1
+Mega Khimki,18,98,Saturday,1,1
+Mega Khimki,19,90,Saturday,1,1
+Mega Khimki,20,78,Saturday,1,1
+Mega Khimki,21,61,Saturday,1,1
+Mega Khimki,22,43,Saturday,1,1
+Mega Khimki,23,23,Saturday,1,1
+Mega Khimki,10,41,Sunday,2,3
+Mega Khimki,11,64,Sunday,2,3
+Mega Khimki,12,79,Sunday,2,3
+Mega Khimki,13,88,Sunday,2,3
+Mega Khimki,14,93,Sunday,2,3
+Mega Khimki,15,95,Sunday,2,3
+Mega Khimki,16,93,Sunday,2,3
+Mega Khimki,17,90,Sunday,2,3
+Mega Khimki,18,85,Sunday,2,3
+Mega Khimki,19,74,Sunday,2,3
+Mega Khimki,20,60,Sunday,2,3
+Mega Khimki,21,45,Sunday,2,3
+Mega Khimki,22,27,Sunday,2,3
+Mega Khimki,23,0,Sunday,2,3
+Metropolis,10,28,Monday,1.5,3
+Metropolis,11,40,Monday,1.5,3
+Metropolis,12,50,Monday,1.5,3
+Metropolis,13,56,Monday,1.5,3
+Metropolis,14,58,Monday,1.5,3
+Metropolis,15,61,Monday,1.5,3
+Metropolis,16,65,Monday,1.5,3
+Metropolis,17,69,Monday,1.5,3
+Metropolis,18,75,Monday,1.5,3
+Metropolis,19,72,Monday,1.5,3
+Metropolis,20,58,Monday,1.5,3
+Metropolis,21,42,Monday,1.5,3
+Metropolis,22,25,Monday,1.5,3
+Metropolis,23,0,Monday,1.5,3
+Metropolis,10,28,Tuesday,3,3
+Metropolis,11,42,Tuesday,3,3
+Metropolis,12,52,Tuesday,3,3
+Metropolis,13,57,Tuesday,3,3
+Metropolis,14,59,Tuesday,3,3
+Metropolis,15,62,Tuesday,3,3
+Metropolis,16,66,Tuesday,3,3
+Metropolis,17,71,Tuesday,3,3
+Metropolis,18,77,Tuesday,3,3
+Metropolis,19,74,Tuesday,3,3
+Metropolis,20,61,Tuesday,3,3
+Metropolis,21,45,Tuesday,3,3
+Metropolis,22,27,Tuesday,3,3
+Metropolis,23,0,Tuesday,3,3
+Metropolis,10,30,Wednesday,2,3
+Metropolis,11,43,Wednesday,2,3
+Metropolis,12,53,Wednesday,2,3
+Metropolis,13,60,Wednesday,2,3
+Metropolis,14,62,Wednesday,2,3
+Metropolis,15,64,Wednesday,2,3
+Metropolis,16,67,Wednesday,2,3
+Metropolis,17,72,Wednesday,2,3
+Metropolis,18,79,Wednesday,2,3
+Metropolis,19,75,Wednesday,2,3
+Metropolis,20,62,Wednesday,2,3
+Metropolis,21,46,Wednesday,2,3
+Metropolis,22,27,Wednesday,2,3
+Metropolis,23,0,Wednesday,2,3
+Metropolis,10,30,Thursday,5,3
+Metropolis,11,44,Thursday,5,3
+Metropolis,12,54,Thursday,5,3
+Metropolis,13,61,Thursday,5,3
+Metropolis,14,63,Thursday,5,3
+Metropolis,15,65,Thursday,5,3
+Metropolis,16,69,Thursday,5,3
+Metropolis,17,74,Thursday,5,3
+Metropolis,18,81,Thursday,5,3
+Metropolis,19,78,Thursday,5,3
+Metropolis,20,66,Thursday,5,3
+Metropolis,21,49,Thursday,5,3
+Metropolis,22,30,Thursday,5,3
+Metropolis,23,0,Thursday,5,3
+Metropolis,10,31,Friday,3,3
+Metropolis,11,45,Friday,3,3
+Metropolis,12,56,Friday,3,3
+Metropolis,13,63,Friday,3,3
+Metropolis,14,67,Friday,3,3
+Metropolis,15,72,Friday,3,3
+Metropolis,16,79,Friday,3,3
+Metropolis,17,88,Friday,3,3
+Metropolis,18,94,Friday,3,3
+Metropolis,19,88,Friday,3,3
+Metropolis,20,74,Friday,3,3
+Metropolis,21,56,Friday,3,3
+Metropolis,22,34,Friday,3,3
+Metropolis,23,0,Friday,3,3
+Metropolis,10,29,Saturday,1,1
+Metropolis,11,48,Saturday,1,1
+Metropolis,12,63,Saturday,1,1
+Metropolis,13,76,Saturday,1,1
+Metropolis,14,87,Saturday,1,1
+Metropolis,15,95,Saturday,1,1
+Metropolis,16,99,Saturday,1,1
+Metropolis,17,100,Saturday,1,1
+Metropolis,18,96,Saturday,1,1
+Metropolis,19,85,Saturday,1,1
+Metropolis,20,71,Saturday,1,1
+Metropolis,21,54,Saturday,1,1
+Metropolis,22,33,Saturday,1,1
+Metropolis,23,0,Saturday,1,1
+Metropolis,10,25,Sunday,2,3
+Metropolis,11,42,Sunday,2,3
+Metropolis,12,56,Sunday,2,3
+Metropolis,13,69,Sunday,2,3
+Metropolis,14,80,Sunday,2,3
+Metropolis,15,87,Sunday,2,3
+Metropolis,16,88,Sunday,2,3
+Metropolis,17,87,Sunday,2,3
+Metropolis,18,83,Sunday,2,3
+Metropolis,19,71,Sunday,2,3
+Metropolis,20,57,Sunday,2,3
+Metropolis,21,43,Sunday,2,3
+Metropolis,22,26,Sunday,2,3
+Metropolis,23,0,Sunday,2,3
+Riviera,10,25,Monday,1.5,3
+Riviera,11,37,Monday,1.5,3
+Riviera,12,48,Monday,1.5,3
+Riviera,13,52,Monday,1.5,3
+Riviera,14,51,Monday,1.5,3
+Riviera,15,50,Monday,1.5,3
+Riviera,16,50,Monday,1.5,3
+Riviera,17,53,Monday,1.5,3
+Riviera,18,57,Monday,1.5,3
+Riviera,19,55,Monday,1.5,3
+Riviera,20,44,Monday,1.5,3
+Riviera,21,28,Monday,1.5,3
+Riviera,22,0,Monday,1.5,3
+Riviera,23,0,Monday,1.5,3
+Riviera,10,27,Tuesday,3,3
+Riviera,11,39,Tuesday,3,3
+Riviera,12,51,Tuesday,3,3
+Riviera,13,55,Tuesday,3,3
+Riviera,14,53,Tuesday,3,3
+Riviera,15,51,Tuesday,3,3
+Riviera,16,51,Tuesday,3,3
+Riviera,17,53,Tuesday,3,3
+Riviera,18,58,Tuesday,3,3
+Riviera,19,58,Tuesday,3,3
+Riviera,20,50,Tuesday,3,3
+Riviera,21,31,Tuesday,3,3
+Riviera,22,0,Tuesday,3,3
+Riviera,23,0,Tuesday,3,3
+Riviera,10,27,Wednesday,2,3
+Riviera,11,40,Wednesday,2,3
+Riviera,12,51,Wednesday,2,3
+Riviera,13,56,Wednesday,2,3
+Riviera,14,55,Wednesday,2,3
+Riviera,15,53,Wednesday,2,3
+Riviera,16,53,Wednesday,2,3
+Riviera,17,55,Wednesday,2,3
+Riviera,18,60,Wednesday,2,3
+Riviera,19,60,Wednesday,2,3
+Riviera,20,51,Wednesday,2,3
+Riviera,21,32,Wednesday,2,3
+Riviera,22,0,Wednesday,2,3
+Riviera,23,0,Wednesday,2,3
+Riviera,10,28,Thursday,5,3
+Riviera,11,40,Thursday,5,3
+Riviera,12,51,Thursday,5,3
+Riviera,13,56,Thursday,5,3
+Riviera,14,55,Thursday,5,3
+Riviera,15,52,Thursday,5,3
+Riviera,16,53,Thursday,5,3
+Riviera,17,56,Thursday,5,3
+Riviera,18,60,Thursday,5,3
+Riviera,19,60,Thursday,5,3
+Riviera,20,52,Thursday,5,3
+Riviera,21,34,Thursday,5,3
+Riviera,22,0,Thursday,5,3
+Riviera,23,0,Thursday,5,3
+Riviera,10,28,Friday,3,3
+Riviera,11,41,Friday,3,3
+Riviera,12,52,Friday,3,3
+Riviera,13,57,Friday,3,3
+Riviera,14,57,Friday,3,3
+Riviera,15,56,Friday,3,3
+Riviera,16,59,Friday,3,3
+Riviera,17,67,Friday,3,3
+Riviera,18,76,Friday,3,3
+Riviera,19,74,Friday,3,3
+Riviera,20,63,Friday,3,3
+Riviera,21,41,Friday,3,3
+Riviera,22,0,Friday,3,3
+Riviera,23,0,Friday,3,3
+Riviera,10,28,Saturday,1,1
+Riviera,11,40,Saturday,1,1
+Riviera,12,51,Saturday,1,1
+Riviera,13,56,Saturday,1,1
+Riviera,14,55,Saturday,1,1
+Riviera,15,52,Saturday,1,1
+Riviera,16,53,Saturday,1,1
+Riviera,17,56,Saturday,1,1
+Riviera,18,60,Saturday,1,1
+Riviera,19,60,Saturday,1,1
+Riviera,20,52,Saturday,1,1
+Riviera,21,34,Saturday,1,1
+Riviera,22,0,Saturday,1,1
+Riviera,23,0,Saturday,1,1
+Riviera,10,32,Sunday,2,3
+Riviera,11,50,Sunday,2,3
+Riviera,12,62,Sunday,2,3
+Riviera,13,75,Sunday,2,3
+Riviera,14,86,Sunday,2,3
+Riviera,15,93,Sunday,2,3
+Riviera,16,97,Sunday,2,3
+Riviera,17,99,Sunday,2,3
+Riviera,18,100,Sunday,2,3
+Riviera,19,88,Sunday,2,3
+Riviera,20,70,Sunday,2,3
+Riviera,21,44,Sunday,2,3
+Riviera,22,0,Sunday,2,3
+Riviera,23,0,Sunday,2,3
